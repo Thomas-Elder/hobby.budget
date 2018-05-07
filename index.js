@@ -27,3 +27,6 @@
 // That's probably the hard part. Next I jsut want to be able to display this somehow. 
 // Maybe even export it as csv and import it to excel for the graphability. 
 
+const csv = require('./csv');
+
+console.log(csv('thing'));
