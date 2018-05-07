@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "App to help track spending",
   "main": "index.js",
-  "dependencies": {
-    "shebang-regex": "^2.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
